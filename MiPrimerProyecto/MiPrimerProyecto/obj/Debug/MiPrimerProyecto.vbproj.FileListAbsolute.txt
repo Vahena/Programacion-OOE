@@ -1,0 +1,11 @@
+D:\Studies\Carrera\Ciclo II\Programacion Orientada a  Objetos y Eventos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+D:\Studies\Carrera\Ciclo II\Programacion Orientada a  Objetos y Eventos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+D:\Studies\Carrera\Ciclo II\Programacion Orientada a  Objetos y Eventos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
+D:\Studies\Carrera\Ciclo II\Programacion Orientada a  Objetos y Eventos\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.xml
+D:\Studies\Carrera\Ciclo II\Programacion Orientada a  Objetos y Eventos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.vbproj.AssemblyReference.cache
+D:\Studies\Carrera\Ciclo II\Programacion Orientada a  Objetos y Eventos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Resources.resources
+D:\Studies\Carrera\Ciclo II\Programacion Orientada a  Objetos y Eventos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.vbproj.GenerateResource.cache
+D:\Studies\Carrera\Ciclo II\Programacion Orientada a  Objetos y Eventos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.vbproj.CoreCompileInputs.cache
+D:\Studies\Carrera\Ciclo II\Programacion Orientada a  Objetos y Eventos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+D:\Studies\Carrera\Ciclo II\Programacion Orientada a  Objetos y Eventos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.xml
+D:\Studies\Carrera\Ciclo II\Programacion Orientada a  Objetos y Eventos\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
